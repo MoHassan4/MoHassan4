@@ -1,69 +1,95 @@
-<!-- 👋 Intro Section -->
-<h1 align="center">Hey there, I'm Mohamed Hassan 👋</h1>
-<h3 align="center">Full Stack MERN Developer | UI/UX Learner | Building modern web experiences</h3>
+<!-- 🌟 Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohamed+Hassan+👋;Full+Stack+MERN+Developer;UI%2FUX+Designer+(in+progress);Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="developer coding gif"/>
+</p>
 
 ---
 
 ## 🧠 About Me
-💻 I'm a passionate **Full Stack Developer** focusing on **React.js, Node.js, Express & MongoDB**.  
-🎨 I’m also learning **UI/UX Design** & **Figma** to craft cleaner, user-centered interfaces.  
-🚀 I love turning ideas into full-featured web apps and learning something new with every project.  
-📍 Based in Egypt — Open to **remote / freelance** opportunities.  
+
+💻 Passionate **Full Stack MERN Developer** who loves crafting elegant web experiences.  
+🎨 Exploring **UI/UX Design** & **Figma** to blend functionality with beauty.  
+⚙️ Focused on **building scalable, modern, and responsive web apps**.  
+🌱 Currently learning **Next.js, performance optimization, and clean architecture**.  
+📍 Based in **Egypt**, open for **remote/freelance** opportunities.  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![MaterialUI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=fff&style=for-the-badge)
-
-### 🧰 Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VS_Code-0078D7?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-
----
-
-## 🧩 Current Focus
-- 🌱 Learning **advanced MERN concepts** (optimization, state management, authentication)
-- 🎨 Improving **UI/UX design skills** using **Figma**
-- ⚡ Preparing a set of full-stack projects (Blog, E-commerce, Social App, and more)
-- 💬 Sharing progress and learning in public  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,materialui,git,github,figma,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧩 Current Focus
+🚀 Building and polishing full-stack apps using the MERN stack.  
+🎨 Enhancing UI/UX design skills & prototyping interfaces in **Figma**.  
+🧠 Diving into **Next.js, JWT authentication, and clean folder structures**.  
+🛠️ Learning **API security, state management (Redux/Zustand)**, and **deployment best practices**.  
+
+---
+
+## 🧱 Projects (Coming Soon 🚧)
+> 🧠 I’m actively working on these — links & live demos coming soon!
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 📝 **Blogify** | A modern blogging platform with categories, markdown & auth. | MERN + JWT + TailwindCSS |
+| 🎥 **YouTube Clone** | Video streaming app with dynamic search & playback. | React + Node + MongoDB |
+| 🎬 **Netflix Clone** | Streaming UI with authentication & saved lists. | React + Firebase |
+| 📱 **Instagram Clone** | Social media platform with likes, posts, and stories. | MERN + Cloudinary |
+| 🛒 **E-commerce** | Online store with cart, payments, and admin panel. | MERN + Stripe |
+| 📰 **News Portal** | News website using APIs & category filters. | React + Node + NewsAPI |
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00C4FF&line=007ACC&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+## 🧠 UI/UX Learning Journey
+
+🎨 Currently studying **user-centered design** and **wireframing**.  
+🖌️ Practicing interface creation using **Figma** and **modern design systems**.  
+💡 Goal: Build interfaces that look good *and* feel right.  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
 
-## ⚡ Quote
-> “Code is like art — it’s not just about solving problems, it’s about creating experiences.”
+## ⚡ Fun Quote
+> “First, solve the problem. Then, write the code beautifully.” — *John Johnson*
 
 ---
 
-⭐️ *Currently improving my skills and working on exciting full-stack projects — stay tuned for updates!*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ *Currently building awesome projects — stay tuned for upcoming releases!*
