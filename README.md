@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="mailto:mohamedhassanmido123@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-hassan-b77023307/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="[https://www.linkedin.com/in/mohamed-hassan-b77023307/](https://www.linkedin.com/in/mohamed-hassan-b77023307/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/MoHassan4"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </p>
