@@ -41,20 +41,6 @@
 
 ---
 
-## 🧱 Projects (Coming Soon 🚧)
-> 🧠 I’m actively working on these — links & live demos coming soon!
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 📝 **Blogify** | A modern blogging platform with categories, markdown & auth. | MERN + JWT + TailwindCSS |
-| 🎥 **YouTube Clone** | Video streaming app with dynamic search & playback. | React + Node + MongoDB |
-| 🎬 **Netflix Clone** | Streaming UI with authentication & saved lists. | React + Firebase |
-| 📱 **Instagram Clone** | Social media platform with likes, posts, and stories. | MERN + Cloudinary |
-| 🛒 **E-commerce** | Online store with cart, payments, and admin panel. | MERN + Stripe |
-| 📰 **News Portal** | News website using APIs & category filters. | React + Node + NewsAPI |
-
----
-
 ## 📈 GitHub Insights
 
 <p align="center">
